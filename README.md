@@ -2,11 +2,16 @@
 
 Простое приложение "Список задач" (ToDo List), реализованное с использованием Vue.js 3 через CDN.
 
-<div align="center">
-  <img src="./images/1.JPG" alt="Скриншот 1" width="500"><br>
-  <img src="./images/2.JPG" alt="Скриншот 2" width="500"><br>
-  <img src="./images/3.JPG" alt="Скриншот 3" width="500">
-</div>
+<table align="center">
+  <tr>
+    <td><img src="./images/1.JPG" alt="Скриншот 1" width="300"></td>
+    <td><img src="./images/2.JPG" alt="Скриншот 2" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="./images/3.JPG" alt="Скриншот 3" width="300"></td>
+    <td></td>
+  </tr>
+</table>
 
 
 ## 🚀 __Функционал__
