@@ -4,11 +4,11 @@
 
 <table align="center">
   <tr>
-    <td><img src="./images/1.JPG" alt="Скриншот 1" width="300"></td>
-    <td><img src="./images/2.JPG" alt="Скриншот 2" width="300"></td>
+    <td><img src="./images/1.JPG" alt="Скриншот 1" width="500"></td>
+    <td><img src="./images/2.JPG" alt="Скриншот 2" width="500"></td>
   </tr>
   <tr>
-    <td><img src="./images/3.JPG" alt="Скриншот 3" width="300"></td>
+    <td><img src="./images/3.JPG" alt="Скриншот 3" width="500"></td>
     <td></td>
   </tr>
 </table>
